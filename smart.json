@@ -1,10 +1,10 @@
 {
-    "name": "cocos2d-html5",
+    "name": "cocos2d",
     "description": "cocos2d-html5 for Meteor",
     "homepage": "https://github.com/cocos2d/cocos2d-html5",
     "author": "",
-    "version": "2.1.1",
-    "git": "https://github.com/cocos2d/cocos2d-html5.git",
+    "version": "2.1.4",
+    "git": "https://github.com/overlordnyaldee/meteor-cocos2d.git",
     "packages": { 
         
     }
